@@ -1,0 +1,48 @@
+.sol{
+    width: 50%;
+    float: left;
+}
+.sag{
+    width: 50%;
+    float: right;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+}
+h2{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'Vollkorn', serif;
+
+}
+a:link{
+    text-decoration: none;
+    color:white
+
+font-size: 1.5rem;
+font-weight: 3px;
+width: 20px;
+margin: auto;
+}
+ul li{padding: 21px;
+
+text-decoration: none;
+
+}
+ul{
+    background-color: black;
+    
+   
+}
+ul a{
+    color: azure;
+    font-size: 1.5rem;
+}
+
+
